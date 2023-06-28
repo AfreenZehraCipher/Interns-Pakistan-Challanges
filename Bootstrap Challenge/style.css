@@ -1,0 +1,9 @@
+.img {
+    background: linear-gradient(
+        to top,
+        white 0%,
+        white 50%,
+        #e5e5e5 50%,
+        #e5e5e5 100%
+    );
+}
