@@ -1,0 +1,121 @@
+.header h3 {
+    font-size: 25px;
+    font-weight: bold;
+    margin-top: 17px;
+}
+.header p {
+    font-size: 15px;
+}
+.header .col-4 {
+    padding: 0px;
+}
+.header .col-8 {
+    padding-left: 0px;
+}
+.img-logo {
+    width: 65px;
+}
+.img-person {
+    margin-top: 70%;
+}
+.img-arrow {
+    margin-top: 11px;
+}
+.list-header h4 {
+    font-weight: bold;
+}
+.list {
+    cursor: pointer;
+}
+.list h5 {
+    font-size: 19px;
+    font-weight: bold;
+    margin-bottom: 3px;
+}
+.row.list {
+    border-bottom: 1px solid #f0f0f0;
+    padding-top: 20px;
+    padding-bottom: 10px;
+}
+.container {
+    padding: 0px;
+    width: 80%;
+    margin: 0 auto;
+    max-width: 420px;
+}
+.item-list li {
+    font-size: 14px;
+    margin-bottom: 22px;
+    line-height: 18px;
+}
+.icon-round {
+    width: 60px;
+    height: 60px;
+    border-radius: 100px;
+    display: block;
+}
+.modal-header .img-logo {
+    position: relative;
+    top: 8px;
+}
+.modal-header {
+    border-bottom-color: #e9ecef;
+    background-color: #e9ecef;
+    height: 65px;
+}
+.modal-dialog {
+    position: fixed;
+    width: auto;
+    margin: 0px;
+    pointer-events: none;
+    height: 100%;
+    background: white;
+}
+.modal-content {
+    height: 100%;
+    overflow-y: auto;
+    border-radius: 0;
+    border: none;
+}
+.modal-body {
+    padding: 15px 15px 80px;
+}
+.modal-body h3 {
+    font-weight: bold;
+    font-size: 26px;
+    margin-top: 25px;
+}
+.modal-body a {
+    color: #333;
+}
+.question h3 {
+    font-weight: bold;
+    margin-top: 23px;
+}
+.question img {
+    width: 100%;
+    margin: 20px auto;
+}
+.bottom-question {
+    width: auto;
+    overflow-y: hidden;
+    margin-top: 80px;
+}
+.question .row {
+    display: none;
+}
+.question .active {
+    display: block;
+}
+.step {
+    text-align: center;
+    width: 100%;
+    font-size: 20px;
+    font-weight: bold;
+}
+.step .checkmark {
+    border: 3px solid #000;
+    display: inline-block;
+    border-radius: 100%;
+    line-height: 25px;
+}
